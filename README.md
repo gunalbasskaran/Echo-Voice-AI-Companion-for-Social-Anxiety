@@ -1,6 +1,6 @@
 <div align="center">
 
-# E c h o
+# Echo
 ### *Your calm AI talk buddy*
 
 ![Echo](https://img.shields.io/badge/Echo-Voice%20AI-F59E0B?style=for-the-badge&labelColor=0F0F0F)
